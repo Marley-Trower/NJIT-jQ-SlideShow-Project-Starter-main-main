@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "imgPath": "AC/ac2.jpg",
+      "imgLocation": "Renaissance Italy",
+      "description": "Florence, Venice, Forlì, Monteriggioni, Tuscany",
+      "date": "1476–1499"
+    },
+    {
+      "imgPath": "ac/ac3boston.jpg",
+      "imgLocation": "Colonial America",
+      "description": "The Thirteen Colonies (Boston, New York), Frontier, and parts of the Caribbean",
+      "date": "1754–1783"
+    },
+    {
+      "imgPath": "ac/ac4jamaca.jpg",
+      "imgLocation": "Caribbean during the Golden Age of Piracy",
+      "description": "Cuba, Jamaica, Nassau, open seas",
+      "date": "1715–1722"
+    },
+    {
+      "imgPath": "ac/acmiragwe.jpg",
+      "imgLocation": "Baghdad, Iraq",
+      "description": "During the Islamic Golden Age",
+      "date": "861 CE"
+    },
+    {
+      "imgPath": "ac/acoddsesy.jpg",
+      "imgLocation": "Ancient Greece",
+      "description": "During the Peloponnesian War (Athens, Sparta, Aegean Islands)",
+      "date": "431–422 BCE"
+    },
+    {
+      "imgPath": "ac/acorigins.jpg",
+      "imgLocation": ": Ancient Egypt",
+      "description": "Egypt, including Alexandria, Memphis, and the Sinai",
+      "date": "49–43 BCE"
+    },
+    {
+      "imgPath": "AC/ACshawdows.jpg",
+      "imgLocation": "Feudal Japan",
+      "description": "Primarily central Japan during the Azuchi–Momoyama period",
+      "date": "Late 16th century (around 1579–1580s)"
+    },
+    {
+      "imgPath": "ac/acsyndictyt.jpg",
+      "imgLocation": "London, England",
+      "description": "Victorian Era",
+      "date": "1868"
+    },
+    {
+      "imgPath": "ac/acunityfrnace.jpg",
+      "imgLocation": "Paris, France",
+      "description": "During the French Revolution",
+      "date": "1789–1794"
+    },
+    {
+      "imgPath": "ac/acvalhalla.jpg",
+      "imgLocation": "9th-century England",
+      "description": "Norway and Anglo-Saxon England (Wessex, Mercia, Northumbria)",
+      "date": "872–878 CE"
+    }
+  ]
+}
